@@ -1,0 +1,29 @@
+body {
+    background-image: url('../img/kanto-map.jpeg');
+    background-size: auto;
+    font-family: "Anton", sans-serif; 
+    color: white;
+}
+
+a {
+    color: white; 
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Honk&family=Miltonian+Tattoo&display=swap');
+
+img {
+    width: 400px;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Anton", sans-serif; 
+}
+
+body {
+    background-color: rgb(76, 190, 228);
+    font-family: 'Anton', sans-serif;
+}
+a {
+    text-align: center;
+}
